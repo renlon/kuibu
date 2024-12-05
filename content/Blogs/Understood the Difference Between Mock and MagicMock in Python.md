@@ -2,7 +2,7 @@
 created: 2024-12-03 00:41
 modified_time: Tuesday 3rd December 2024 00:41:52
 draft: false
-title: I Finally Understood the Difference Between Mock and MagicMock in Python
+title: Understood the Difference Between Mock and MagicMock in Python
 tags:
 ---
 After years of Python testing, I kept running into confusion about when to use Mock versus MagicMock. If you're like me, you've probably just defaulted to MagicMock because it "just works." But recently, I had an enlightening moment that I want to share with fellow Pythonistas.
