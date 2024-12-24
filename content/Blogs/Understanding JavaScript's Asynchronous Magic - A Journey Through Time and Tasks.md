@@ -2,8 +2,15 @@
 created: 2024-12-23 21:50
 modified_time: Monday 23rd December 2024 21:50:17
 draft: false
-title:  Understanding JavaScript's Asynchronous Magic- A Journey Through Time and Tasks
-tags:  
+title: Understanding JavaScript's Asynchronous Magic- A Journey Through Time and Tasks
+tags:
+  - javascript
+  - async
+  - webapi
+  - queue
+  - webpack
+  - babel
+  - esbuild
 ---
 
 
