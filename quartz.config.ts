@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "kuibu.moreyoung.life",
-    ignorePatterns: ["private", "templates", ".obsidian", "booknotes", "projects", "random notes"],
+    ignorePatterns: ["private", "templates", ".obsidian", "booknotes", "projects", "random notes", ".trash"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
