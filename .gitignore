@@ -12,3 +12,9 @@ replit.nix
 .trash/
 *.tmp
 .tmp.driveupload/
+booknotes/
+projects/
+random notes/
+content/booknotes/
+content/projects/
+content/random notes/
