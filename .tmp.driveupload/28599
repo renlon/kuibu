@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 7ac94e1d840b58e1400e5dd08533eed9e7418d70 Long Ren <longren@amazon.com> 1733197079 -0800	clone: from https://github.com/jackyzha0/quartz.git
+7ac94e1d840b58e1400e5dd08533eed9e7418d70 7c9a9a4c3065efb647fe34b6c868c37f670fa915 Long Ren <longren@amazon.com> 1733198621 -0800	commit: Quartz sync: Dec 2, 2024, 8:03 PM
+7c9a9a4c3065efb647fe34b6c868c37f670fa915 62d84bfc7a51078f1ea19682ffb51519bb15893b Long Ren <longren@amazon.com> 1733366194 -0800	commit: update home page
+62d84bfc7a51078f1ea19682ffb51519bb15893b 770e8c54b0e117901fe84ed3a8fc689eccaef47a Long Ren <longren@amazon.com> 1733367926 -0800	commit: update readme and footer
+770e8c54b0e117901fe84ed3a8fc689eccaef47a 2b0520fba1ad9fbed8cd6e953f52d4954ac85a39 Long Ren <longren@amazon.com> 1733368331 -0800	commit: add deployment script
+2b0520fba1ad9fbed8cd6e953f52d4954ac85a39 53a46b2f30d8a7588d690c720436fd41a5d35986 Long Ren <longren@amazon.com> 1733369274 -0800	commit: Quartz sync: Dec 4, 2024, 7:27 PM
+53a46b2f30d8a7588d690c720436fd41a5d35986 118b69bd40e1a79f63befe85b8d7702a6e05bce6 Long Ren <longren@amazon.com> 1733387399 -0800	commit: update icon png
+118b69bd40e1a79f63befe85b8d7702a6e05bce6 e38ef70adeed9849d5216bb37465baf211955c71 Long Ren <longren@amazon.com> 1733387450 -0800	commit: Quartz sync: Dec 5, 2024, 12:30 AM
+e38ef70adeed9849d5216bb37465baf211955c71 cb7ca3e09f917ea1776988d77b02818e88b4dfde Long Ren <longren@amazon.com> 1733621070 -0800	commit: Quartz sync: Dec 7, 2024, 5:24 PM
+cb7ca3e09f917ea1776988d77b02818e88b4dfde 73693f45538097740a07a8a0a490b99e276c8ddc Long Ren <longren@amazon.com> 1735026148 -0800	commit: Quartz sync: Dec 23, 2024, 11:42 PM
+73693f45538097740a07a8a0a490b99e276c8ddc 453ff27bc585f7cf9da9f4bb4d8d707868cd7fa4 Long Ren <longren@amazon.com> 1735029396 -0800	commit: Quartz sync: Dec 24, 2024, 12:36 AM
+453ff27bc585f7cf9da9f4bb4d8d707868cd7fa4 44c652aab33a4546f4f26d4f6ee48c3a632f166c Long Ren <longren@amazon.com> 1735051927 -0800	commit: Quartz sync: Dec 24, 2024, 6:52 AM
+44c652aab33a4546f4f26d4f6ee48c3a632f166c 22c1e87f667e62f17675f7306863b11411d4150f Long Ren <longren@amazon.com> 1743971489 -0700	commit: add more contents
+22c1e87f667e62f17675f7306863b11411d4150f 4d4a12f2a2bb23e9740c973160f66e5c94a64358 Long Ren <longren@amazon.com> 1743972818 -0700	pull --no-rebase --autostash -s recursive -X ours --no-edit origin v4: Fast-forward
+4d4a12f2a2bb23e9740c973160f66e5c94a64358 873159bc38a7b2cc802c16b40ae095d79c373ab9 Long Ren <longren@amazon.com> 1743975331 -0700	commit: Quartz sync: Apr 6, 2025, 2:35 PM
+873159bc38a7b2cc802c16b40ae095d79c373ab9 4cde4ffec6e07011ea67eeff55b3033dd3a7674d Long Ren <longren@amazon.com> 1743975497 -0700	commit: Quartz sync: Apr 6, 2025, 2:38 PM

@@ -170,6 +170,14 @@
   },
   "active": "08978411217dc214",
   "lastOpenFiles": [
+    "content/Blogs/Understanding JavaScript's Asynchronous Magic - A Journey Through Time and Tasks.md",
+    "content/Blogs/Demystifying AWS Bedrock Converse Tool Use - JSON Schema vs. Function Calling.md",
+    "content/Blogs/JavaScript in Practice - From Callbacks to Async and Await.md",
+    "content/Blogs/Mock vs MagicMock - The Tale of Two Testing Tools (and Why You've Been Using Them Wrong).md",
+    "content/Blogs/The Evolution of Search - From Keywords to Knowledge Graphs.md",
+    "content/index.md",
+    "content/Blogs",
+    "content",
     "Random notes/Troubleshoot 4XX.md",
     "Random notes/OLR.md",
     "Random notes",
@@ -191,20 +199,12 @@
     "Projects/relocate/Bye.md",
     "Projects/relocate/FineTune (LoRa).md",
     "Projects/relocate/Cache.md",
-    "Projects/relocate/CUDA.md",
-    "Projects/Anthropic MCP presentation.md",
     "Projects/relocate",
-    "Projects/Youtube pay rate.md",
-    "Projects/React, Angular, Vue.js.md",
-    "Projects/Array.md",
-    "Projects/AI Voice Generator Tool.md",
     "Projects",
     "BookNotes",
     "content/Projects/relocate",
     "content/Random notes",
     "content/Projects",
-    "content/BookNotes",
-    "content/Blogs",
-    "content"
+    "content/BookNotes"
   ]
 }
