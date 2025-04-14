@@ -140,7 +140,7 @@ The future will likely be determined by adoption, developer experience, and whic
 
 Google's A2A protocol represents a significant step toward creating interconnected, collaborative AI agent systems. Rather than replacing Anthropic's MCP, A2A appears to complement it by addressing agent-to-agent communication while MCP handles agent-to-tool interactions.
 
-As these protocols mature and gain adoption, we may be witnessing the early infrastructure of what Google calls "the internet of agents" – a future where AI systems communicate and collaborate to solve complex problems across platforms, vendors, and domains.
+As these protocols mature and gain adoption, we may be witnessing the early infrastructure of ["the internet of agents"](https://arxiv.org/pdf/2407.07061) – a future where AI systems communicate and collaborate to solve complex problems across platforms, vendors, and domains.
 
 For developers and organizations building agent systems today, understanding the distinct roles of both protocols will be crucial to building effective, interoperable AI solutions.
 
