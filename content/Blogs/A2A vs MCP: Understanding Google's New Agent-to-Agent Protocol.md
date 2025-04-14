@@ -48,7 +48,7 @@ With over 50 partners including major companies like Atlassian, Box, and Salesfo
 
 ## What Problems Does A2A Solve?
 
-A2A addresses several critical challenges in building effective agent systems:
+A2A addresses several critical challenges in building effective agent systems ([A2A git repo](https://github.com/google/A2A)):
 
 ### 1. Agent Discovery and Selection
 
@@ -66,9 +66,6 @@ Many agent tasks aren't instantaneous and may require updates over time. A2A inc
 
 A2A is designed with security in mind, supporting enterprise-grade authentication and authorization, with parity to OpenAPI's authentication schemes.
 
-### 5. User Experience Negotiation
-
-A2A enables agents to negotiate about UI capabilities, allowing them to determine what kind of content (text, images, iframes, etc.) can be displayed to users.
 
 ## A2A vs. MCP: Complementary Standards
 
