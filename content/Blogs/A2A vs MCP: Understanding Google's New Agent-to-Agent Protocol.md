@@ -81,12 +81,14 @@ A key question in the AI community is whether A2A **competes with** or **complem
 - **Analogy**: Your personal toolbox that an agent uses to interact with the world
 
 ### A2A (Agent-to-Agent):
+![A2A and MCP Relationship](https://google.github.io/A2A/images/a2a_mcp.png)
+
 - **Focus**: Communication between intelligent agents
 - **Direction**: Agent-to-agent communication
 - **Purpose**: Coordination between multiple intelligent systems
 - **Analogy**: A team of specialists collaborating, each with their own toolbox
 
-Google explicitly positions A2A as complementary to MCP in their documentation, with a page titled "A2A ❤️ MCP." They explain the relationship using a car repair example:
+Google explicitly positions A2A as complementary to MCP in their [documentation](https://google.github.io/A2A/#/topics/a2a_and_mcp), with a page titled "A2A ❤️ MCP." They explain the relationship using a car repair example:
 
 > "MCP is the protocol to connect agents with their structured tools (e.g. 'raise platform by 2 meters', 'turn wrench 4 mm to the right')."
 
