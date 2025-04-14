@@ -1,0 +1,1 @@
+fix: deep clone before relativizing urls in transclude (closes #640)

@@ -1,0 +1,6 @@
+tree cd45d189d7277ca91aab3dccead1ad9c6d83cdaa
+parent 7bcf27241ff30d08e937b47d9fc113b781f7cebe
+author Jacky Zhao <j.zhao2k19@gmail.com> 1703094737 -0800
+committer Jacky Zhao <j.zhao2k19@gmail.com> 1703094737 -0800
+
+fix: deep clone before relativizing urls in transclude (closes #640)
